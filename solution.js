@@ -1,2 +1,2 @@
-export const AWS_LINK = process.env.AWS_LINK || "";
-export const PORT = process.env.PORT || 3000;
+export const AWS_LINK = "http://3.107.253.244:3000/";
+export const PORT = 3000;
